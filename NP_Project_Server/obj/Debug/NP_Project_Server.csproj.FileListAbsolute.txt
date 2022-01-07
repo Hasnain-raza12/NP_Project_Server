@@ -1,0 +1,7 @@
+E:\vs program\NP_Project_Server\NP_Project_Server\bin\Debug\NP_Project_Server.exe.config
+E:\vs program\NP_Project_Server\NP_Project_Server\bin\Debug\NP_Project_Server.exe
+E:\vs program\NP_Project_Server\NP_Project_Server\bin\Debug\NP_Project_Server.pdb
+E:\vs program\NP_Project_Server\NP_Project_Server\obj\Debug\NP_Project_Server.csproj.CoreCompileInputs.cache
+E:\vs program\NP_Project_Server\NP_Project_Server\obj\Debug\NP_Project_Server.exe
+E:\vs program\NP_Project_Server\NP_Project_Server\obj\Debug\NP_Project_Server.pdb
+E:\vs program\NP_Project_Server\NP_Project_Server\obj\Debug\NP_Project_Server.csprojAssemblyReference.cache
